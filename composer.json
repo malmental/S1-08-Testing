@@ -1,0 +1,15 @@
+{
+    "name": "orlandorojas/s1-08-testing",
+    "autoload": {
+        "psr-4": {
+            "Orlandorojas\\S108Testing\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "malmental",
+            "email": "orlandorojasoyarzun@gmail.com"
+        }
+    ],
+    "require": {}
+}
