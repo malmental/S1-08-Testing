@@ -2,12 +2,14 @@
     "name": "orlandorojas/s1-08-testing",
     "autoload": {
         "psr-4": {
-            "Orlandorojas\\S108Testing\\": "src/"
+            "Ejercicio1\\": "Ejercicio1/src/",
+            "Ejercicio2\\": "Ejercicio2/src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Tests\\": "Tests/"
+            "Ejercicio1\\Tests\\": "Ejercicio1/Tests/",
+            "Ejercicio2\\Tests\\": "Ejercicio2/Tests/"
         }
     },
     "authors": [

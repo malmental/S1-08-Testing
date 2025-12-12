@@ -1,6 +1,6 @@
 <?php
 
-namespace Orlandorojas\S108Testing;
+namespace Ejercicio1;
 
 class NumberChecker
 {

@@ -1,9 +1,9 @@
 <?php
 
-namespace Tests;
+namespace Ejercicio1\Tests;
 
 use PHPUnit\Framework\TestCase;
-use Orlandorojas\S108Testing\NumberChecker;
+use Ejercicio1\NumberChecker;
 
 
 class NumberCheckerTest extends TestCase
