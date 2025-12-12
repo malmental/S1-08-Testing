@@ -5,11 +5,18 @@
             "Orlandorojas\\S108Testing\\": "src/"
         }
     },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "Tests/"
+        }
+    },
     "authors": [
         {
             "name": "malmental",
             "email": "orlandorojasoyarzun@gmail.com"
         }
     ],
-    "require": {}
+    "require-dev": {
+        "phpunit/phpunit": "^12.5"
+    }
 }
