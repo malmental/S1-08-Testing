@@ -16,5 +16,3 @@ class NumberChecker
         return $this->number > 0;
     }
 }
-
-?>
