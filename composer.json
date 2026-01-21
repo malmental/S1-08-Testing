@@ -10,7 +10,7 @@
     "autoload-dev": {
         "psr-4": {
             "nivel1\\Ejercicio1\\Tests\\": "nivel1/Ejercicio1/Tests/",
-            "nivel1\\Ejercicio2\\Tests\\": "nivel/Ejercicio2/Tests/",
+            "nivel1\\Ejercicio2\\Tests\\": "nivel1/Ejercicio2/Tests/",
             "nivel2\\ejercicio1\\tests\\": "nivel2/ejercicio1/Tests/"
         }
     },

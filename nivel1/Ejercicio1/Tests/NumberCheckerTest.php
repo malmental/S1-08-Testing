@@ -39,8 +39,7 @@ class NumberCheckerTest extends TestCase
     public function testByZero()
     {
         $number = new NumberChecker(0);
-        $this->assertFalse($number->isEven());
+        $this->assertTrue($number->isEven());
         $this->assertFalse($number->isPositive());
     }
-
 }
