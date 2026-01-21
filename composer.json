@@ -2,14 +2,16 @@
     "name": "orlandorojas/s1-08-testing",
     "autoload": {
         "psr-4": {
-            "Ejercicio1\\": "Ejercicio1/src/",
-            "Ejercicio2\\": "Ejercicio2/src/"
+            "nivel1\\Ejercicio1\\": "nivel1/Ejercicio1/src/",
+            "nivel1\\Ejercicio2\\": "nivel1/Ejercicio2/src/",
+            "nivel2\\ejercicio1\\": "nivel2/ejercicio1/src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Ejercicio1\\Tests\\": "Ejercicio1/Tests/",
-            "Ejercicio2\\Tests\\": "Ejercicio2/Tests/"
+            "nivel1\\Ejercicio1\\Tests\\": "nivel1/Ejercicio1/Tests/",
+            "nivel1\\Ejercicio2\\Tests\\": "nivel/Ejercicio2/Tests/",
+            "nivel2\\ejercicio1\\tests\\": "nivel2/ejercicio1/Tests/"
         }
     },
     "authors": [
